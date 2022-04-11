@@ -1,8 +1,8 @@
 ## Sitemize Hoş Geldiniz!
 
-You can use the [editor on GitHub](https://github.com/MinecraftTurkiye/MinecraftTurkiye.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Sitemizde Türk yapımı birbirinden güzel Minecraft modlarını bulabilirsiniz.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bu modlara sitemiz üzerinden ücretsiz erişebilirsiniz.
 
 ### Markdown
 
